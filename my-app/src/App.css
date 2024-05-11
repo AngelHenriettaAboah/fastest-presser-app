@@ -1,6 +1,9 @@
 * {
-  background-color: #a6862e;
+  background-image: url("./presser.jpg");
   color: aliceblue;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
 }
 
 .App {
